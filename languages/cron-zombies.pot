@@ -1,0 +1,95 @@
+# Copyright (C) 2025 Noah Stewart
+# This file is distributed under the same license as the Cron Zombies plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cron Zombies 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cron-zombies\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-05T21:52:39-05:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: cron-zombies\n"
+
+#. Plugin Name of the plugin
+#: includes/class-cron-zombies-admin.php:23
+#: includes/class-cron-zombies-admin.php:24
+#: includes/class-cron-zombies-admin.php:78
+msgid "Cron Zombies"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage, delete, and run WordPress cron jobs. Includes bulk delete and health checks."
+msgstr ""
+
+#. Author of the plugin
+msgid "Noah Stewart"
+msgstr ""
+
+#: includes/class-cron-list-table.php:37
+msgid "Hook"
+msgstr ""
+
+#: includes/class-cron-list-table.php:38
+msgid "Next Run (UTC)"
+msgstr ""
+
+#: includes/class-cron-list-table.php:39
+msgid "Recurrence"
+msgstr ""
+
+#: includes/class-cron-list-table.php:40
+msgid "Actions"
+msgstr ""
+
+#: includes/class-cron-list-table.php:59
+msgid "Delete Selected"
+msgstr ""
+
+#: includes/class-cron-list-table.php:75
+msgid "Selected cron jobs deleted."
+msgstr ""
+
+#: includes/class-cron-list-table.php:92
+msgid "One-time"
+msgstr ""
+
+#: includes/class-cron-list-table.php:130
+msgid "Delete"
+msgstr ""
+
+#: includes/class-cron-list-table.php:131
+msgid "Run Now"
+msgstr ""
+
+#: includes/class-cron-manager.php:13
+#: includes/class-cron-manager.php:31
+msgid "Security check failed."
+msgstr ""
+
+#: includes/class-cron-manager.php:20
+msgid "Cron job executed successfully."
+msgstr ""
+
+#: includes/class-cron-manager.php:22
+msgid "Cron job not found."
+msgstr ""
+
+#: includes/class-cron-manager.php:35
+msgid "Cron job deleted."
+msgstr ""
+
+#: includes/class-cron-manager.php:37
+msgid "Failed to delete cron job."
+msgstr ""
+
+#: includes/class-cron-zombies-admin.php:66
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: includes/class-cron-zombies-admin.php:79
+msgid "Manage, delete, and run WordPress cron jobs."
+msgstr ""
